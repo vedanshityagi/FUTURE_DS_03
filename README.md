@@ -58,7 +58,6 @@ The analysis uses the Bank Marketing Dataset, which contains customer and campai
 
 * Marketing_Funnel_Analysis.xlsx
 * bank-full.csv
-* Dashboard Screenshot
 * README.md
 
 ## Conclusion
